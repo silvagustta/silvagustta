@@ -1,4 +1,4 @@
-<div align="cente">
+<div align="center">
 
 <table width="100%">
 <tr>
